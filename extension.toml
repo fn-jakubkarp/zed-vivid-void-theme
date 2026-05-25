@@ -1,6 +1,8 @@
+[vivid-void-theme]
+submodule = "extensions/vivid-void-theme"
+version = "0.0.1"
 id = "vivid-void-theme"
 name = "Vivid Void"
-version = "0.0.1"
 schema_version = 1
 authors = ["Jakub Karp <lirinlabs@gmail.com>"]
 description = "A deep, void-like aesthetic featuring highly vivid syntax highlighting."
